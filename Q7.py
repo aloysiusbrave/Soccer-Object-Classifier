@@ -389,5 +389,5 @@ if __name__ == "__main__":
         frame_number=700,
         output_path="final_vertical.jpg",
         show_result=True,
-        debug_save=True
+        debug_save=False
     )
